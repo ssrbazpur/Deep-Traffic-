@@ -9,7 +9,6 @@ DeepTraffic is a deep reinforcement learning competition hosted as part of the [
 
 
 ```bibtex
-@inproceedings{fridman2018deeptraffic,
 author = {Simranjeet Randhawa},
 title = {DeepTraffic Solution},
 
