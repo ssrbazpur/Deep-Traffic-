@@ -89,7 +89,9 @@ DeepTraffic follows just one of the vehicles (the ego vehicle), so you’ll noti
 
 When vehicles fall off the road, they are replaced by new vehicles on the opposite end of the highway. When a vehicle is replaced, its speed & lane is chosen randomly.
 
+### Result
 
+With this parameters I get 74.50. But there is random in submission and speed can vary between 74 and 75. So the same submission may vary about 0.5 mph. So try multiple times.
 
 ## References
 
