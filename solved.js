@@ -2,8 +2,11 @@
 
 // a few things don't have var in front of them - they update already existing variables the game needs
 lanesSide = 3;
+//Patches that can be looked ahead
 patchesAhead = 50;
+//patches that the car driver can look behind
 patchesBehind = 10;
+//Training alterations
 trainIterations = 500000;
 
 var num_inputs = (lanesSide * 2 + 1) * (patchesAhead + patchesBehind);
