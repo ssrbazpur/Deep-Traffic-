@@ -1,5 +1,3 @@
-# Deep-Traffic-
-
 
 # DeepTraffic: MIT Deep Reinforcement Learning Competition
 
