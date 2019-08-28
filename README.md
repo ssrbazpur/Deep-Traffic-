@@ -89,35 +89,7 @@ DeepTraffic follows just one of the vehicles (the ego vehicle), so you’ll noti
 
 When vehicles fall off the road, they are replaced by new vehicles on the opposite end of the highway. When a vehicle is replaced, its speed & lane is chosen randomly.
 
-## Hyperparameters
 
-To do well in DeepTraffic using DQN, you’ll have to choose good hyperparameters. This can be tricky because (1) the full hyperparameter space is rather large and (2) the bigger your network gets, the longer it takes to train which means you’ll explore less of the hyper-parameter space. Therefore, it helps to understand how changing the hyper-parameters will change performance prior to training.
-
-![parameters](https://selfdrivingcars.mit.edu/wordpress/wp-content/uploads/2019/01/deeptraffic_parameters.png)
-
-## Results
-
-### Progress
-
-The plot below shows how the competition progressed over time:
-
-![progress](https://selfdrivingcars.mit.edu/wordpress/wp-content/uploads/2019/01/score_curve_data.png)
-
-### The Structure of Submissions
-
-Below is a t-SNE plot, i.e. submissions originally represented in a vector space spanning patchesAhead, patchesBehind, l2_decay, layer_count, gamma, learning_rate, lanesSide, train_iterations are plotted in a 2 dimensional space which preserves the composition of neighboring points. The color of each dot corresponds to submissions score. An interesting feature of this plot is that several clusters emerge — competitors stumbled upon similar solutions.
-
-![tsne](https://selfdrivingcars.mit.edu/wordpress/wp-content/uploads/2018/06/tsne-scatter.png)
-
-## Help and Documentation
-
-See [Documentation page](https://selfdrivingcars.mit.edu/deeptraffic-documentation/) for more details and hints and how to submit to the competition.
-
-## Team
-
-- [Lex Fridman](https://lexfridman.com/) ([Twitter](https://twitter.com/))
-- [Jack Terwilliger](http://www.mit.edu/~jterwill/)
-- [Benedikt Jenik](http://bjenik.com/)
 
 ## References
 
