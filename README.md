@@ -3,10 +3,7 @@
 
 [DeepTraffic](https://selfdrivingcars.mit.edu/deeptraffic) - [Visualization](https://selfdrivingcars.mit.edu/deeptraffic-visualization) - [Leaderboard](https://selfdrivingcars.mit.edu/deeptraffic-leaderboard) 
 
-DeepTraffic is a deep reinforcement learning competition hosted as part of the [MIT Deep Learning](https://deeplearning.mit.edu) courses. The goal is to create a neural network that drives a vehicle (or multiple vehicles) as fast as possible through dense highway traffic. Top 10 submissions are listed on the  [leaderboard](https://selfdrivingcars.mit.edu/deeptraffic-leaderboard/) and you'll be able to [visualize](https://selfdrivingcars.mit.edu/deeptraffic-visualization/) your submission in the following way:
-
-
-
+DeepTraffic is a deep reinforcement learning competition hosted as part of the [MIT Deep Learning](https://deeplearning.mit.edu) courses. The goal is to create a neural network that drives a vehicle (or multiple vehicles) as fast as possible through dense highway traffic. 
 
 ```bibtex
 {
