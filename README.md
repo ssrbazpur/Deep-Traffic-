@@ -89,11 +89,3 @@ When vehicles fall off the road, they are replaced by new vehicles on the opposi
 ### Result
 
 With this parameters I get 74.50. But there is random in submission and speed can vary between 74 and 75. So the same submission may vary about 0.5 mph. So try multiple times.
-
-## References
-
-- [1] https://static.tti.tamu.edu/tti.tamu.edu/documents/mobility-scorecard-2015.pdf
-- [2] (6.9 * 1000000000) / (75 * 365 * 24)
-- [3] Horn, Berthold KP. "Suppressing traffic flow instabilities." Intelligent Transportation Systems-(ITSC), 2013 16th International IEEE Conference on. IEEE, 2013. https://people.csail.mit.edu/bkph/articles/Suppressing_Traffic_Flow%20Instabilities_IEEE_ITS_2013.pdf
-- [4] Stern, Raphael E., et al. "Dissipation of stop-and-go waves via control of autonomous vehicles: Field experiments." Transportation Research Part C: Emerging Technologies 89 (2018): 205-221. https://arxiv.org/pdf/1705.01693.pdf
-- [5] https://link.springer.com/content/pdf/10.1007/BF00992698.pdf
